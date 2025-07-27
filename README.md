@@ -141,8 +141,6 @@
 - ✅ **Audio Integration** - Combat sounds and weapon audio cues
 - ✅ **Player Stance System** - Multiple combat stances and smooth animations
 
-### � **Watch the Complete System in Action**
-[![🎬 Full Gameplay Demo](https://img.shields.io/badge/🎬-Watch%20Full%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/L1kNo9_ZfRk)
 
 *See all features working together in this comprehensive gameplay demonstration!*
 
@@ -169,9 +167,6 @@ This project is developed for educational and portfolio purposes.
 **🎮 AI Enemy Boss Fight System - COMPLETED PROJECT! 🔥**
 
 *Built with Unreal Engine 5 | Blueprint Visual Scripting*
-
-### 🎬 **See the Complete System in Action!**
-[![🎮 Watch Full Demo](https://img.shields.io/badge/🎮-Watch%20Complete%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/L1kNo9_ZfRk)
 
 *Experience the full AI boss fight system with all features working seamlessly together!*
 
