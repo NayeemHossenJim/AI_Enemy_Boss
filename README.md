@@ -7,9 +7,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 *An advanced AI-driven boss fight system featuring dynamic combat mechanics, spell casting, and immersive gameplay*
-
-[![Boss Fight Demo](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/L1kNo9_ZfRk)
-
 </div>
 
 ## 📸 Screenshots & Gameplay
@@ -20,32 +17,6 @@
 [![🎮 Watch Full Gameplay Demo](https://img.shields.io/badge/🎮-WATCH%20COMPLETE%20DEMO-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/L1kNo9_ZfRk)
 
 *🔥 See the entire AI boss fight system in action - All features completed and working! 🔥*
-
----
-
-### 🔥 **Boss Fight in Action**
-![Boss Fight](https://via.placeholder.com/600x300/ff4444/ffffff?text=🔥+Boss+Fight+Scene)
-
-### ⚡ **Spell System Showcase**
-![Spell Effects](https://via.placeholder.com/600x300/9944ff/ffffff?text=⚡+Magic+Spell+Effects)
-
-### 🤖 **AI Enemy Types**
-<table>
-<tr>
-<td align="center">
-<img src="https://via.placeholder.com/280x200/ff6b35/ffffff?text=⚔️+Melee+Enemy" alt="Melee Enemy" width="280"/>
-<br><b>Melee Fighter</b>
-</td>
-<td align="center">
-<img src="https://via.placeholder.com/280x200/f7931e/ffffff?text=🏹+Ranged+Enemy" alt="Ranged Enemy" width="280"/>
-<br><b>Ranged Archer</b>
-</td>
-<td align="center">
-<img src="https://via.placeholder.com/280x200/9c27b0/ffffff?text=🧙+Mage+Enemy" alt="Mage Enemy" width="280"/>
-<br><b>Spell Caster</b>
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -64,10 +35,6 @@
 - **Health Management**: Visual health bars and damage feedback
 
 ### 🔥 **Spell & Effects System**
-<div align="center">
-<img src="https://via.placeholder.com/400x250/ff1744/ffffff?text=💥+AOE+Explosion" alt="AOE Effects" width="400"/>
-</div>
-
 - **Area of Effect (AOE) Spells**: 
   - 💥 Explosive Blasts
   - 🔥 Fire Damage Over Time
@@ -101,13 +68,6 @@
 └── 📊 Saved/                  # Project saves and generated content
 ```
 
----
-
-## 🎮 Gameplay Features
-
-<div align="center">
-<img src="https://via.placeholder.com/500x280/4caf50/ffffff?text=🎮+Gameplay+Combat+Scene" alt="Gameplay" width="500"/>
-</div>
 
 ### 🏹 **Combat Mechanics**
 - **Real-time Combat**: Fast-paced action with responsive controls
@@ -128,26 +88,7 @@
 
 ## 🛠️ Technical Implementation
 
-<div align="center">
-
 ### 📊 **System Architecture**
-![System Architecture](https://via.placeholder.com/700x400/607d8b/ffffff?text=🏗️+Blueprint+System+Architecture)
-
-### 🎯 **Blueprint Showcase**
-<table>
-<tr>
-<td align="center">
-<img src="https://via.placeholder.com/300x180/2196f3/ffffff?text=🤖+AI+Blueprint" alt="AI Blueprint" width="300"/>
-<br><b>Enemy AI System</b>
-</td>
-<td align="center">
-<img src="https://via.placeholder.com/300x180/ff9800/ffffff?text=💥+Damage+System" alt="Damage System" width="300"/>
-<br><b>Damage Calculator</b>
-</td>
-</tr>
-</table>
-
-</div>
 
 ### 📘 **Blueprint Architecture**
 - **Modular Design**: Reusable components for scalable development
@@ -187,10 +128,6 @@
 ---
 
 ## 🎯 Project Status: ✅ COMPLETED
-
-<div align="center">
-<img src="https://via.placeholder.com/600x100/4caf50/ffffff?text=✅+PROJECT+COMPLETED+SUCCESSFULLY" alt="Completed" width="600"/>
-</div>
 
 ### ✅ **Fully Implemented Features**
 - ✅ **Advanced Enemy AI System** - Multiple enemy types with intelligent behaviors
@@ -232,8 +169,6 @@ This project is developed for educational and portfolio purposes.
 **🎮 AI Enemy Boss Fight System - COMPLETED PROJECT! 🔥**
 
 *Built with Unreal Engine 5 | Blueprint Visual Scripting*
-
-![Game Banner](https://via.placeholder.com/800x200/673ab7/ffffff?text=🎯+AI+Enemy+Boss+Fight+System+-+COMPLETED)
 
 ### 🎬 **See the Complete System in Action!**
 [![🎮 Watch Full Demo](https://img.shields.io/badge/🎮-Watch%20Complete%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/L1kNo9_ZfRk)
